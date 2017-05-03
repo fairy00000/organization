@@ -57,17 +57,17 @@
 |主任|0|2|0|0|3|0|0|1|6|
 |合計|1|6|2|3|4|1|1|5|23|
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/Member.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/Member.png">
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/DepartmentManeger.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/DepartmentManeger.png">
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/Position.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/Position.png">
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/AllPie.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/AllPie.png">
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/CadrePie.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/CadrePie.png">
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/RegularPie.png>
+<img src="https://github.com/fairy00000/organization/blob/master/image/RegularPie.png">
 
 ## 週間予定
 
