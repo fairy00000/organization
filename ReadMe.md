@@ -1,5 +1,5 @@
 # フェアリーパレス総合医療センター
-<img src="https://github.com/fairy00000/organization/blob/master/image/%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8F%E3%82%9A%E3%83%AC%E3%82%B9.png" width="500pt", height="500pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/Fairy.png">
 
 ## 目次
 * [組織図](https://github.com/fairy00000/organization#組織図)
@@ -9,7 +9,7 @@
 * [週間予定](https://github.com/fairy00000/organization#週間予定)
 
 ## 組織図
-<img src="https://github.com/fairy00000/organization/blob/master/image/%E7%B5%84%E7%B9%94%E5%9B%B3.png" width="379pt", height="336pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/%E7%B5%84%E7%B9%94%E5%9B%B3.png">
 
 ## 会員構成
 
@@ -57,17 +57,17 @@
 |主任|0|2|0|0|3|0|0|1|6|
 |合計|1|6|2|3|4|1|1|5|23|
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/Member.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/Member.png>
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/DepartmentManeger.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/DepartmentManeger.png>
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/Position.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/Position.png>
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/AllPie.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/AllPie.png>
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/CadrePie.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/CadrePie.png>
 
-<img src="https://github.com/fairy00000/organization/blob/master/image/RegularPie.png" width="600pt", height="400pt">
+<img src="https://github.com/fairy00000/organization/blob/master/image/RegularPie.png>
 
 ## 週間予定
 
