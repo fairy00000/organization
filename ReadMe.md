@@ -26,7 +26,7 @@
 |副医院長|受付薬局科|Sherry||
 |副医院長|受付薬局科|にこ||
 |副医院長補佐|専門科|愛海||
-|医局長|外科|流|<img src="https://github.com/fairy00000/organization/blob/master/imageimage/new.gif">|
+|医局長|外科|流|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |部長|内科|Fx||
 |部長|内科|くぅ||
 |部長|内科|まあ||
