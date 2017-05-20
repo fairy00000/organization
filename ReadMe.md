@@ -39,8 +39,8 @@
 |主任|内科|SEANO|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |主任|内科|にゃんこ||
 |主任|内科|ルミカ||
+|主任|相談科|saaya|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |主任|相談科|かお||
-|主任|相談科|さぁや|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |主任|相談科|みさき||
 |主任|受付薬局科|りな||
 
