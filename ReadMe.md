@@ -13,20 +13,20 @@
 
 ## 会員構成
 
-2017年05月14日(日)時点での主任以上の会員
+2017年05月21日(日)時点での主任以上の会員
 
 ### 一覧
 
 |役職|所属|名前|更新|
 |:-----|:-----|:-----|:-----|
 |オーナー|総合科|優里||
-|医院長|外科|流|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
+|医院長|外科|流||
 |医院長|専門科|Kirara||
 |医院長|専門科|じーじ||
 |医院長|相談科|あめ||
 |副医院長|受付薬局科|Sherry||
 |副医院長|受付薬局科|にこ||
-|副医院長補佐|ナース科|さきりん||
+|副医院長補佐|ナース科|さきりん|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |部長|内科|Fx||
 |部長|内科|くぅ||
 |部長|内科|まあ||
@@ -36,10 +36,10 @@
 |部長|産婦人科|宇佐||
 |部長|受付薬局科|かのん||
 |部長|受付薬局科|渚||
-|主任|内科|SEANO|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
+|主任|内科|SEANO||
 |主任|内科|にゃんこ||
 |主任|内科|ルミカ||
-|主任|相談科|saaya|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
+|主任|相談科|saaya||
 |主任|相談科|かお||
 |主任|相談科|みさき||
 |主任|受付薬局科|りな||
