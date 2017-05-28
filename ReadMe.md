@@ -34,7 +34,7 @@
 |部長|外科|ノッチィ||
 |部長|相談科|れい||
 |部長|受付薬局科|かのん||
-|部長|受付薬局科|宇佐||
+|部長|受付薬局科|宇佐|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |部長|受付薬局科|渚||
 |主任|内科|SEANO||
 |主任|内科|にゃんこ||
