@@ -13,7 +13,7 @@
 
 ## 会員構成
 
-2017年07月16日(日)時点での主任以上の会員
+2017年07月30日(日)時点での主任以上の会員
 
 ### 一覧
 
@@ -24,10 +24,10 @@
 |医院長|専門科|Kirara||
 |医院長|専門科|じーじ||
 |医院長|相談科|あめ||
-|副医院長|ナース科|さきりん|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
+|副医院長|ナース科|さきりん||
 |副医院長|受付薬局科|Sherry||
-|部長|内科|優亜|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
-|部長|相談科|たくま|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
+|部長|内科|優亜||
+|部長|相談科|たくま||
 |部長|相談科|れい||
 |部長|受付薬局科|宇佐||
 |主任|内科|Fx||
@@ -39,6 +39,7 @@
 |主任|外科|ノッチィ||
 |主任|相談科|saaya||
 |主任|相談科|かお||
+|主任|相談科|みう|<img src="https://github.com/fairy00000/organization/blob/master/image/new.gif">|
 |主任|相談科|みさき||
 |主任|受付薬局科|nami||
 |主任|受付薬局科|かのん||
@@ -57,8 +58,8 @@
 |医局長|0|0|0|0|0|0|0|0|0|
 |事務局長|0|0|0|0|0|0|0|0|0|
 |部長|0|1|0|0|2|0|0|1|4|
-|主任|0|6|1|0|3|0|0|5|15|
-|合計|1|7|2|2|6|0|1|7|26|
+|主任|0|6|1|0|4|0|0|5|16|
+|合計|1|7|2|2|7|0|1|7|27|
 
 <img src="https://github.com/fairy00000/organization/blob/master/image/Member.png">
 
